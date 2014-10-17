@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vis:home|Door43 (vis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vis|d43-vis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vis/archive/master.zip|d43-vis.zip]]
+
+**Recent Changes**
+{{changes>ns = vis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vis|Ethnologue data]]
+
